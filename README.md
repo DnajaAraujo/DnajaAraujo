@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dnajaaraujo/)
 
 ![Dnajá Araújo GitHub stats](https://github-readme-stats.vercel.app/api?username=dnajaaraujo&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnajaaraujo&layout=compact&langs_count=6&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnajaaraujo&layout=compact&langs_count=8&theme=dracula)
 
 ### Tecnologias que uso no meu dia
 
@@ -16,4 +16,3 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div></br>
-
