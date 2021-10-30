@@ -6,7 +6,7 @@
 [![Dnajá Araújo GitHub stats](https://github-readme-stats.vercel.app/api?username=dnajaaraujo&show_icons=true&theme=dracula)](https://www.github.com/dnajaaraujo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnajaaraujo&layout=compact&langs_count=8&theme=dracula)](https://www.github.com/dnajaaraujo)
 
-### Tecnologias que uso atualmente 💻
+### Tecnologias que utilizo atualmente 💻
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.github.com/dnajaaraujo)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.github.com/dnajaaraujo)
