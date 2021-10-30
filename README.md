@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnaja-araujo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dnajaaraujo/)
 
-[![Dnajá Araújo GitHub stats](https://github-readme-stats.vercel.app/api?username=Wictor-dev&show_icons=true&theme=dracula)](https://www.github.com/dnajaaraujo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wictor-dev&layout=compact&langs_count=8&theme=dracula)](https://www.github.com/dnajaaraujo)
+[![Dnajá Araújo GitHub stats](https://github-readme-stats.vercel.app/api?username=dnajaaraujo&show_icons=true&theme=dracula)](https://www.github.com/dnajaaraujo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnajaaraujo&layout=compact&langs_count=8&theme=dracula)](https://www.github.com/dnajaaraujo)
 
 ### Tecnologias que uso atualmente 💻
 
